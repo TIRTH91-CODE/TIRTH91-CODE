@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tirth Mango 👋
+# Hi, I'm Tirth 👋
 
 **Student · Web Developer · Backend Explorer**
 
